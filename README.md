@@ -5,6 +5,7 @@ This repository contains code and resources for predicting customer churn in an 
 Dataset Used
 
 The dataset used in this project can be found on Kaggle.
+https://www.kaggle.com/datasets/fridrichmrtn/user-churn-dataset
 
 Key Features
 
